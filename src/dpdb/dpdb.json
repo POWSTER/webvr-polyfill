@@ -1296,20 +1296,6 @@
       "type": "android",
       "rules": [
         {
-          "mdmh": "samsung/*/SM-G930F/*"
-        },
-        {
-          "ua": "SM-G930F"
-        }
-      ],
-      "dpi": 576.6,
-      "bw": 3,
-      "ac": 1000
-    },
-    {
-      "type": "android",
-      "rules": [
-        {
           "mdmh": "samsung/*/SM-G935F/*"
         },
         {
